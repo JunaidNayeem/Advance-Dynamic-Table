@@ -1,0 +1,30 @@
+{
+  "name": "advance-dynamic-table",
+  "version": "1.0.1",
+  "description": "A React component for a dynamic and editable table using Ant Design.",
+  "main": "src/AdvanceDynamicTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Junaid Nayeem",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "antd": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "antd": "^4.0.0"
+  },
+  "keywords": [
+    "react",
+    "dynamic table",
+    "editable table",
+    "ant design",
+    "react table",
+    "table component",
+    "pagination",
+    "react editable table",
+    "UI component"
+  ]
+}
