@@ -4,7 +4,8 @@
   "description": "A React component for a dynamic and editable table using Ant Design.",
   "main": "src/AdvanceDynamicTable.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
   },
   "author": "Md Junaid Nayeem",
   "license": "MIT",
