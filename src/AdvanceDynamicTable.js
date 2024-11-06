@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Table, Input, Empty } from "antd";
 
-export const AdvanceDynamicTable = ({ apiData, pagination, editable }) => {
+const AdvanceDynamicTable = ({ apiData, pagination, editable }) => {
     const [filteredData, setFilteredData] = useState([]);
     const [data, setData] = useState([[]]);
 
@@ -102,3 +102,5 @@ export const AdvanceDynamicTable = ({ apiData, pagination, editable }) => {
         )
     );
 };
+
+export default AdvanceDynamicTable;
